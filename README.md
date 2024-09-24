@@ -22,7 +22,7 @@ Without running this, the app will not load.
 
 ## Main App Page
 ### All the cities data, along with the map which loads to user's current location when loading for the first time...
-![image](https://github.com/user-attachments/assets/1a665f02-b456-4176-a177-47e86720e794)
+![image](https://github.com/user-attachments/assets/9c79cd8a-a155-403f-99e0-eb1b880f135c)
 
 ## Adding New City
 ### Clicking on any city on the map will lead to the adding new city, fill out some fields and done...
