@@ -1,0 +1,57 @@
+.login {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  background-color: var(--color-dark--1);
+  min-height: calc(100vh - 5rem);
+}
+
+.form {
+  background-color: var(--color-dark--2);
+  border-radius: 7px;
+  padding: 2rem 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  /* Different from other form */
+  width: 48rem;
+  margin: 8rem auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+@media (min-width: 551px) and (max-width: 650px) {
+  .form {
+    width: auto;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 550px) {
+  .form {
+    width: auto;
+  }
+
+  .login {
+    padding: 2.5rem 4rem;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 424px) {
+  .form {
+    width: auto;
+    padding: 1rem;
+  }
+
+  .login {
+    padding: 2.5rem;
+  }
+
+  .form label,
+  .form input {
+    font-size: 1.2rem;
+  }
+}
