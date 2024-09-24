@@ -25,7 +25,8 @@ Without running this, the app will not load.
 ![image](https://github.com/user-attachments/assets/9c79cd8a-a155-403f-99e0-eb1b880f135c)
 
 ## Adding New City
-### Clicking on any city on the map will lead to the adding new city, fill out some fields and done...
+### Clicking on any city on the map will lead to the adding new city
+### Alternatively, clicking on `USE YOUR POSITION` will lead to adding user's current location city
 ![image](https://github.com/user-attachments/assets/1433f2de-9101-42e6-91f3-f23986e5b14d)
 
 ## Viewing a City
